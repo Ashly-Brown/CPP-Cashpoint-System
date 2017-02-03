@@ -1,6 +1,3 @@
-//Pascale Vacher - March 15
-//OOP Assignment Semester 2
-
 #include "CashPoint.h"         //include modules header files
 
 //---------------------------------------------------------------------------

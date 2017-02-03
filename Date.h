@@ -1,6 +1,3 @@
-//Pascale Vacher - March 15
-//OOP Assignment Semester 2
-
 #ifndef DateH
 #define DateH
 

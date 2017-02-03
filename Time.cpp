@@ -1,6 +1,3 @@
-//Pascale Vacher - March 15
-//OOP Assignment Semester 2
-
 #include "Time.h"			//header file
 
 //---------------------------------------------------------------------------

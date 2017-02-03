@@ -1,6 +1,3 @@
-//Pascale Vacher - March 15
-//OOP Assignment Semester 2
-
 //------------------------------------------------
 //List & Node: class template (using linked list of ITEM items)
 //------------------------------------------------
